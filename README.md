@@ -1,6 +1,9 @@
 # NLP_HW4
 
 ## update model : ENtest
+
+url:https://changgunguniversity-my.sharepoint.com/:f:/g/personal/b0729022_cgu_edu_tw/Ej4eb76IIUtDhpg8f_5JSZABR9HcpTpKi4K2BbQxO-RrUQ?e=ffE6BC
+
 '李知恩'結果：
 
 申升勳 0.8787490129470825
