@@ -1,7 +1,7 @@
 # NLP_HW4
 
-## ENtest
-結果：
+## update model : ENtest
+'李知恩'結果：
 
 申升勳 0.8787490129470825
 
